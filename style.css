@@ -1,6 +1,11 @@
-@charset "utf-8";
-p{
-  background-color: orange;
-  color: #fff;
-  font-size: 20px;
+.train {
+    color: rgb(0, 68, 253);
 }
+#heading {
+    background-color: gold;
+    border: inset 10px #ff0000;
+}
+.small {
+    color: lawngreen;
+}
+
